@@ -54,7 +54,7 @@ Z = (-1.6448536269514722, -0.6744897501960817, 0.0, 0.6744897501960817,
 #   "C" mean-of-three   -- weighted-mean practice loss 0.110, worst 0.189
 # v2 (server-graded practice loss 0.142) is beaten by every variant on every
 # scenario of that ensemble except the two most concentrated extremes.
-VARIANT = "C"
+VARIANT = "A"
 
 # The refresh the kit publishes for the practice answers (competition.yaml):
 # 04:30Z 19 Nov 2026, 3,868 players tracked, 4,276 trophies earned.
